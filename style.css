@@ -19,12 +19,15 @@ h3 {
   font-size: 1.3rem;
   font-weight: bold;
 }
-
 img {
   width: 100%;
 }
 .container{
     margin-top: 90px;
+}
+li{
+  margin-top: 10px;
+  padding-bottom: 10px;
 }
 
 /* Bootstrap Overrides */
